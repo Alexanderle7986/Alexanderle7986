@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexanderle7986
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning in oder to become a Font-End developer
+- 🌱 I’m currently learning in oder to become a Developer Application Mobile 
 - 💞️ I’m looking to collaborate on Githup 
 - 📫 How to reach me resources and also share them.
 - 📫 I am grateful to all of you
